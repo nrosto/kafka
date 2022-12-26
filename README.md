@@ -1,0 +1,1 @@
+Тестовый проект про Кафку. К статье https://knasys.ru/%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82-java-apache-kafka/
